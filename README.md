@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Rubin, a recent computer science gradute from [The University of Alberta](https://www.ualberta.ca/)
+I am Rubin, a recent computer science gradute from [The University of Alberta](https://www.ualberta.ca/).Currently, I am enrolled in a master's program in Korea.
 
+Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-rubinwon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ru-bin-won-904a58226/)](https://www.linkedin.com/in/ru-bin-won-904a58226/)
+[![Gmail Badge](https://img.shields.io/badge/-ruby25110041@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruby2511004@gmail.com)](mailto:ruby2511004@gmail.com)
+
