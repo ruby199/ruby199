@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <p>Welcome to my page! </br> I am Rubin, a master's student from South Korea who pursued my undergraduate studies in Canada. </b>. </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-ru-bin-won-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ru-bin-won-904a58226/)](https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/ru-bin-won-904a58226/))
