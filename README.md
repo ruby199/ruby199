@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Welcome to my page! </br> I am Rubin, a master's student from South Korea who pursued my undergraduate studies in Canada. </b>. </p>
+
