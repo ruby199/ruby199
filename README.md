@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Welcome to my page! </br> I am Rubin, a recent computer science gradute from [The University of Alberta](https://www.ualberta.ca/).</b>. </p>
+I am Rubin, a recent computer science gradute from [The University of Alberta](https://www.ualberta.ca/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubinwon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ru-bin-won-904a58226/)](https://www.linkedin.com/in/ru-bin-won-904a58226/)
