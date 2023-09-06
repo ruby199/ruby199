@@ -19,7 +19,7 @@ I am Rubin, a recent computer science gradute from [The University of Alberta](h
 
 Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-rubinwon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ru-bin-won-904a58226/)](https://www.linkedin.com/in/ru-bin-won-904a58226/)
-[![Gmail Badge](https://img.shields.io/badge/-ruby25110041@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruby2511004@gmail.com)](mailto:rubrub3210@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rubrub3210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubrub3210@gmail.com)](mailto:rubrub3210@gmail.com)
 
 ## ⚡ Technologies
 
