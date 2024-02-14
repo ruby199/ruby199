@@ -14,6 +14,6 @@ I am Rubin, a recent computer science graduate from [The University of Alberta](
 <br><br><br><br> <!-- Ensures separation and clears any floating elements -->
 
 <h3 align="left">📈 My github stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruby199&show_icons=true&locale=en&&theme=radical" alt="ruby199" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruby199&" alt="ruby199" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruby199&show_icons=true&locale=en&&theme=ambient_gradient" alt="ruby199" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruby199&&theme=ocean-gradient" alt="ruby199" /></p>
 
