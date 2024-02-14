@@ -10,6 +10,7 @@ I am Rubin, a recent computer science graduate from [The University of Alberta](
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rubrub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubrub" /></a></p><br><br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruby199&show_icons=true&locale=en" alt="ruby199" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruby199&" alt="ruby199" /></p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruby199&show_icons=true&locale=en" alt="ruby199" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruby199&" alt="ruby199" />
+</div>
